@@ -1,3 +1,3 @@
 # register-me.wickr.com
 
-## Subdomain Takeover by blackdevil_48
+## Subdomain Takeover by Aqil
